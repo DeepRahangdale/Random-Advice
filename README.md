@@ -1,5 +1,7 @@
 # Random Advice
 
+![Project Logo](Profileimage.png) <!-- If applicable -->
+
 Random Advice is a web-based project aimed at providing users with random pieces of advice, tips, and wisdom on a variety of topics. It's designed to offer a lighthearted and serendipitous experience, where users can receive advice that might range from practical to humorous, and from profound to whimsical. The project aims to entertain, inspire, and sometimes even make users reflect on the randomness of life.
 
 ## Available Scripts
